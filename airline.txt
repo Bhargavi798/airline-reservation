@@ -1,0 +1,10 @@
+1:  Indianairlines
+2:  Jetairways
+3:  Indigo
+4:  Spicejet
+5:  Airasia
+6:  Airindia
+7:  Singaporeairlines
+8:  Arabemirates
+9:  Luftansa
+10: British airways
